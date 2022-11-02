@@ -1,0 +1,8 @@
+---
+permalink: task-disable-monitoring.html 
+redirect: cloud-manager-family/index.html 
+---
+= 
+:allow-uri-read: 
+
+

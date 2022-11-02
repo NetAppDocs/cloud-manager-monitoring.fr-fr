@@ -1,0 +1,65 @@
+---
+settings:
+  name: Monitoring
+  platform: cloud
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  rss_page: whats-new.html
+  langs: fr-fr,us-en,ja-jp,zh-cn,zh-tw,ko-kr,de-de
+sidebar:
+  entries:
+  - title: Documentation de surveillance
+    url: "/index.html"
+  - title: Notes de mise à jour
+    url: "/whats-new.html"
+  - title: Commencez
+    entries:
+    - title: Découvrez le service surveillance
+      url: "/concept-monitoring.html"
+    - title: Démarrage rapide
+      url: "/task-quick-start.html"
+    - title: Activer la surveillance
+      url: "/task-enable-monitoring.html"
+  - title: Utilisez le service surveillance
+    entries:
+    - title: Contrôle des performances du volume
+      url: "/task-monitor-volumes.html"
+    - title: Désactivez le service surveillance
+      url: "/task-disable-monitoring.html"
+  - title: Connaissances et support
+    entries:
+    - title: S'inscrire pour obtenir de l'aide
+      url: "/task-support-registration.html"
+    - title: Obtenez de l'aide
+      url: "/task-get-help.html"
+  - title: Mentions légales
+    url: "/legal-notices.html"
+homepage:
+  tiles:
+  - title: Commencez
+    links:
+    - title: Découvrez le service surveillance
+      url: concept-monitoring.html
+    - title: Démarrage rapide
+      url: task-quick-start.html
+    - title: Activer la surveillance
+      url: task-enable-monitoring.html
+  - title: Utilisez le service surveillance
+    links:
+    - title: Contrôle des performances du volume
+      url: task-monitor-volumes.html
+  - title: Communauté sur les blogs
+    links:
+    - title: Communauté NetApp
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: Blog Cloud Central
+      url: https://cloud.netapp.com/blog
+    - title: Webinaires sur le cloud
+      url: https://cloud.netapp.com/events
+product-family:
+  name: Cloud Manager
+  repo: cloud-manager-family
+  sidebar_label: Toute la documentation de Cloud Manager

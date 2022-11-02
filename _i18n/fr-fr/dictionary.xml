@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="doc"></block>
+  <block id="912bed1d23c871964d4d8656f78f54b8" category="sidebar">Documentation de surveillance</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notes de mise à jour</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Commencez</block>
+  <block id="32170de6c2f418678b9e314d24c62ca6" category="sidebar">Découvrez le service surveillance</block>
+  <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">Démarrage rapide</block>
+  <block id="729e3399d869de5540bc06d71a6bcf81" category="sidebar">Activer la surveillance</block>
+  <block id="2a8c90464d0bceecefc5742b343edc30" category="sidebar">Utilisez le service surveillance</block>
+  <block id="ce77715626079095fa554aca4f19278b" category="sidebar">Contrôle des performances du volume</block>
+  <block id="dc0b4c4961a51250a7863d226048ea35" category="sidebar">Désactivez le service surveillance</block>
+  <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Connaissances et support</block>
+  <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="sidebar">S'inscrire pour obtenir de l'aide</block>
+  <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="sidebar">Obtenez de l'aide</block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="sidebar">Mentions légales</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">Communauté sur les blogs</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">Communauté NetApp</block>
+  <block id="ff6c37cbc252e306a6b4e390ec13cbc1" category="sidebar">Blog Cloud Central</block>
+  <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">Webinaires sur le cloud</block>
+  <block id="7ff191df90fac0fa94ab5c2b5101a5e9" category="sidebar">Toute la documentation de Cloud Manager</block>
+</blocks>
